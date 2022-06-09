@@ -19,6 +19,11 @@ namespace NguyenVietHoang_BigSchool.Models
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Category>()
+                .HasMany(e => e.Courses)
+                .WithRequired(e => e.Category)
+                .WillCascadeOnDelete(false);
+
             modelBuilder.Entity<Course>()
                 .HasMany(e => e.Attendances)
                 .WithRequired(e => e.Course)

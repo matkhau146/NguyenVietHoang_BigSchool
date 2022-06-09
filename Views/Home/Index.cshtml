@@ -16,14 +16,16 @@
                         @courses.Datetime.ToString("dd")
                     </div>
                 </div>
-                <div class="destais">
+                <div class="details">
                     <span class="lecture">
                         @courses.Name
+                        <button data-course-id="@courses.LecturerId" class="btn btn-default btn-sm js-tongle-follow">Follow</button>
                     </span>
                     <span class="category">
                         @courses.Category.Name
+                        <button data-course-id="@courses.Id" class="btn btn-default btn-sm js-tongle-attendance">Going?</button>
                     </span>
-                    <button data-course-id="@courses.Id" class="btn btn-default btn-sm js-tongle-attendance">Going?</button>
+                    
                 </div>
             </li>
         }
