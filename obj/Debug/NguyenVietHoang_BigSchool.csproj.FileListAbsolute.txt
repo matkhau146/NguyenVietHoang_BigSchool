@@ -1,3 +1,150 @@
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\NguyenVietHoang_BigSchool.dll.config
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\NguyenVietHoang_BigSchool.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\NguyenVietHoang_BigSchool.pdb
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\csc.exe
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\csc.exe.config
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\csc.rsp
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\csi.exe
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\csi.exe.config
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\csi.rsp
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.AppContext.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Console.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Globalization.Calendars.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.IO.Compression.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Net.Http.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Net.Sockets.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.ValueTuple.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Xml.XPath.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\vbc.exe
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\vbc.exe.config
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\vbc.rsp
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\VBCSCompiler.exe
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Antlr3.Runtime.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\DocumentFormat.OpenXml.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\EntityFramework.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\EntityFramework.SqlServer.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Gremlin.Net.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.Logging.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Newtonsoft.Json.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\OpenXmlPowerTools.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Owin.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Polly.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Buffers.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.IO.Packaging.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Management.Automation.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Memory.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Numerics.Vectors.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Text.Encodings.Web.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Text.Json.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Threading.Tasks.Extensions.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.ValueTuple.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Helpers.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Mvc.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Optimization.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Razor.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.WebPages.Deployment.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.WebPages.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.WebPages.Razor.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\WebGrease.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\DocumentFormat.OpenXml.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Gremlin.Net.pdb
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Gremlin.Net.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.Logging.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Polly.pdb
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Polly.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Buffers.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Memory.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Numerics.Vectors.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Text.Encodings.Web.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Text.Json.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Threading.Tasks.Extensions.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.ValueTuple.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Helpers.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Mvc.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Optimization.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.Razor.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.WebPages.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.WebPages.Deployment.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\System.Web.WebPages.Razor.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Newtonsoft.Json.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Antlr3.Runtime.pdb
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\EntityFramework.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\EntityFramework.SqlServer.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\obj\Debug\NguyenVietHoang_BigSchool.csproj.AssemblyReference.cache
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\obj\Debug\NguyenVietHoang_BigSchool.csproj.CoreCompileInputs.cache
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\obj\Debug\NguyenVietHoang_BigSchool.csproj.CopyComplete
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\obj\Debug\NguyenVietHoang_BigSchool.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool - Copy\obj\Debug\NguyenVietHoang_BigSchool.pdb
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\NguyenVietHoang_BigSchool.dll.config
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\NguyenVietHoang_BigSchool.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\NguyenVietHoang_BigSchool.pdb
@@ -51,12 +198,19 @@ D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\roslyn\vbc.rsp
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\roslyn\VBCSCompiler.exe
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\roslyn\VBCSCompiler.exe.config
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Antlr3.Runtime.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\DocumentFormat.OpenXml.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\EntityFramework.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\EntityFramework.SqlServer.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Gremlin.Net.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.AspNet.Identity.Core.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Bcl.AsyncInterfaces.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Logging.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Tokens.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Owin.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Owin.Host.SystemWeb.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Owin.Security.Cookies.dll
@@ -68,7 +222,20 @@ D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Owin.Security.OAuth
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Owin.Security.Twitter.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Web.Infrastructure.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Newtonsoft.Json.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\OpenXmlPowerTools.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Owin.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Polly.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Buffers.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.IO.Packaging.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Management.Automation.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Memory.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Numerics.Vectors.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Encodings.Web.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Json.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Threading.Tasks.Extensions.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.ValueTuple.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Helpers.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Mvc.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Optimization.dll
@@ -77,6 +244,25 @@ D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.WebPages.Deploymen
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.WebPages.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.WebPages.Razor.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\WebGrease.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\DocumentFormat.OpenXml.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Gremlin.Net.pdb
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Gremlin.Net.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Logging.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Polly.pdb
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Polly.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Buffers.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Memory.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Numerics.Vectors.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Encodings.Web.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Json.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Threading.Tasks.Extensions.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.ValueTuple.xml
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Helpers.xml
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Mvc.xml
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Optimization.xml
@@ -106,42 +292,3 @@ D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigScho
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigSchool.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigSchool.pdb
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigSchool.csproj.AssemblyReference.cache
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\DocumentFormat.OpenXml.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Gremlin.Net.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Abstractions.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.JsonWebTokens.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Logging.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Tokens.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\OpenXmlPowerTools.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Polly.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Buffers.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.IdentityModel.Tokens.Jwt.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.IO.Packaging.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Management.Automation.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Memory.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Numerics.Vectors.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Runtime.CompilerServices.Unsafe.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Encodings.Web.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Json.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Threading.Tasks.Extensions.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.ValueTuple.dll
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\DocumentFormat.OpenXml.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Gremlin.Net.pdb
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Gremlin.Net.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Abstractions.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.JsonWebTokens.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Logging.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Microsoft.IdentityModel.Tokens.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Polly.pdb
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\Polly.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Buffers.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.IdentityModel.Tokens.Jwt.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Memory.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Numerics.Vectors.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Runtime.CompilerServices.Unsafe.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Encodings.Web.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Text.Json.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Threading.Tasks.Extensions.xml
-D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.ValueTuple.xml
