@@ -292,3 +292,9 @@ D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigScho
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigSchool.dll
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigSchool.pdb
 D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\obj\Debug\NguyenVietHoang_BigSchool.csproj.AssemblyReference.cache
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Net.Http.Formatting.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Http.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Http.WebHost.dll
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Net.Http.Formatting.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Http.xml
+D:\Study\LapTrinhWeb\NguyenVietHoang_BigSchool\bin\System.Web.Http.WebHost.xml
